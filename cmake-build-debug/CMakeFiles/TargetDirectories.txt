@@ -1,0 +1,3 @@
+C:/Users/WOW/Desktop/stm32cubeMX/generationTwo/cmake-build-debug/CMakeFiles/generationTwo.elf.dir
+C:/Users/WOW/Desktop/stm32cubeMX/generationTwo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/WOW/Desktop/stm32cubeMX/generationTwo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
